@@ -1,0 +1,24 @@
+p
+	{
+		text-align :justify;
+		font-size : 12pt;
+		line-height : 15pt;
+	}
+body
+	{
+		background-color :rgb(120, 120, 120);
+		font-family : Comfortaa, Lexend, Monospace; /* The font of the body will probably be Comfortaa, */
+	}
+img
+	{
+		border-color : black;
+		border-width : medium;
+		border-style :solid;
+		padding : 0.5%;
+		margin-bottom : 2%;
+		margin-left: 40%;
+	}
+#Appearance
+	{
+		color : teal; /*I chose this color because it looks like and has a good appearance.*/
+	}
