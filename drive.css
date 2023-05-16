@@ -22,3 +22,12 @@ img
 	{
 		color : teal; /*I chose this color because it looks like and has a good appearance.*/
 	}
+video
+	{
+		border-color : black;
+		border-width : medium;
+		border-style :solid;
+		padding : 0.5%;
+		margin-bottom : 2%;
+		margin-left: 40%;
+	}
