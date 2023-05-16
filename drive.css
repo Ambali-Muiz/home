@@ -31,3 +31,8 @@ video
 		margin-bottom : 2%;
 		margin-left: 40%;
 	}
+body{	background-color :#cccccc;
+		background-image :linear-gradient(rgba(0,0,225,0.5),rgba(225,225,0,0.5)),url("psg pics.jpg");
+	}
+	
+	
